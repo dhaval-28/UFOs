@@ -16,7 +16,7 @@ Here is the filtered view of UFO sightings. In the screen below, I have entered 
 
 The search result displays 2 records from data.js which matches the filter criteria specified above. ![Search Results after fitler](https://github.com/dhaval-28/UFOs/blob/main/static/images/UFO_AfterFilter.png)
 
-Users can serach by any of these 5 search fields. They can search by one field, or combination of one or more or all. 
+Users can serach by any of these 5 search fields. They can search by one field, or combination of one or more or all. If users keep all 5 criteria blank then a default view will be displayed with all results from data.js. 
 
 ## Summary :
 
