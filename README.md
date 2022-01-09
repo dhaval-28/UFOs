@@ -4,8 +4,12 @@
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. The purpose of this project is to add additional filters : city, state, country, and shape and provide users ability to search by these elements. 
 
 ## Results :
+#### Default View :
 The default view of the webpages displays data for all UFO sightings from data.js.
 Here is the link to the default view : ![Default view of UFO Sightings](https://github.com/dhaval-28/UFOs/blob/main/static/images/UFO_DefaultView.png)
+
+#### Filtered view and usage of search filter :
+Users can serach by any of these 5 search fields. They can search by one field, or combination of one or more or all. If users keep all 5 criteria blank then a default view will be displayed with all results from data.js. 
 
 Here is the filtered view of UFO sightings. In the screen below, I have entered following details in the filter search.   
 *  Enter Date = 1/1/2010
@@ -16,7 +20,7 @@ Here is the filtered view of UFO sightings. In the screen below, I have entered 
 
 The search result displays 2 records from data.js which matches the filter criteria specified above. ![Search Results after fitler](https://github.com/dhaval-28/UFOs/blob/main/static/images/UFO_AfterFilter.png)
 
-Users can serach by any of these 5 search fields. They can search by one field, or combination of one or more or all. If users keep all 5 criteria blank then a default view will be displayed with all results from data.js. 
+
 
 ## Summary :
 
