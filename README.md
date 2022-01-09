@@ -14,7 +14,7 @@ Here is the filtered view of UFO sightings. In the screen below, I have entered 
 *  Enter Country = us
 *  Enter Shape = triangle
 
-The search result displays 2 records from data.js which matches this filter criteria specified. :** ![Search Results after fitler](https://github.com/dhaval-28/UFOs/blob/main/static/images/UFO_AfterFilter.png)
+The search result displays 2 records from data.js which matches the filter criteria specified above. ![Search Results after fitler](https://github.com/dhaval-28/UFOs/blob/main/static/images/UFO_AfterFilter.png)
 
 Users can serach by any of these 5 search fields. They can search by one field, or combination of one or more or all. 
 
