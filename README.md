@@ -10,9 +10,9 @@ Here is the link to the default view : ** An updated scraping.py file.:** ![Defa
 Here is the filtered view of UFO sightings. In the screen below, I have entered following details in the filter search.   
 * . Enter Date = 1/1/2010
 * . Enter City = el cajon
-*. Enter State = ca
-*. Enter Country = us
-*. Enter Shape = triangle
+* . Enter State = ca
+* . Enter Country = us
+* . Enter Shape = triangle
 
 The search result displays 2 records from data.js which matches this filter criteria specified. :** ![Search Results after fitler](https://github.com/dhaval-28/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
