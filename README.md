@@ -25,7 +25,7 @@ The search result displays 2 records from data.js which matches the filter crite
 ## Summary :
 
 **Drawback of this new Design*
-* 1. The filter search form does not clear on it's own. For new set of filters, user need to manually clear each entry for date, city, state, country and shape.
+* 1. The filter search form does not clear on it's own. For the new set of filters, users need to manually clear each entry for date, city, state, country and shape.
 
 **Recommendations*
 * 1. There should be a clear form button in the bottom to clear the search form.
